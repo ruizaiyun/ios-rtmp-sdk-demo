@@ -25,7 +25,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     UILabel *titleLable = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 100, 30)];
-    titleLable.text = @"POLYV 直播";
+    titleLable.text = @"睿在云 直播";
     titleLable.textColor = [UIColor whiteColor];
     titleLable.textAlignment = NSTextAlignmentCenter;
     self.navigationItem.titleView = titleLable;

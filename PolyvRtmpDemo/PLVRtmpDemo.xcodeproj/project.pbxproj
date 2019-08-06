@@ -336,7 +336,7 @@
 				TargetAttributes = {
 					67FF73B11DC1E36B00B1CDDB = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 8BMZBNN3Q5;
+						DevelopmentTeam = 9E78V92FYD;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
@@ -606,7 +606,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = 8BMZBNN3Q5;
+				DEVELOPMENT_TEAM = 9E78V92FYD;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/PolyvLiveSDK",
@@ -632,7 +632,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = 8BMZBNN3Q5;
+				DEVELOPMENT_TEAM = 9E78V92FYD;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/PolyvLiveSDK",
